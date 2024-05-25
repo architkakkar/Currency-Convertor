@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        pattern: "url('./images/background-pattern.png')",
+        pattern: "url('/images/background-pattern.png')",
       },
     },
     plugins: [],
